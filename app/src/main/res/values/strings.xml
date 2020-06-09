@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestAcuentP20</string>
+
+    <string name="error_default"></string>
+    <string name="message_default"></string>
+    <string name="btn_default"></string>
+
+    <!-- Errores  -->
+    <string name="btn_try_again">Try again</string>
+    <string name="btn_retry">Try again</string>
+    <string name="message_try_again">Try again</string>
+    <string name="message_fail">Document capture failed</string>
+    <string name="message_scan_back">Scan back</string>
+    <string name="des_scan_back">Turn the document over and scan the reverse side.</string>
+
+    <string name="error_sharpness">La foto salió borrosa, por favor inténtalo de nuevo</string>
+    <string name="error_dpi">Tu cámara no cumple con los requisitos mínimos para la toma de la foto</string>
+    <string name="error_glare">Por favor toma la foto sin fuentes de luz incandecentes</string>
+    <string name="error_glare_share">Tuvimos problemas de luz y nitidez con la toma de tu foto. Por favor encuentra un ambiente que no genere destellos en el documento y deja la cámara quieta mientras tomamos la foto</string>
+
+</resources>

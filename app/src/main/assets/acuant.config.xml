@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<setting>
+    <acuant_username>admin_soyyo_m8BEBw</acuant_username>
+    <acuant_password>ZmQ3PAuw7Uvz!dH5</acuant_password>
+    <acuant_subscription>5e66c20f-c8ba-4e06-a627-a20872d2e253</acuant_subscription>
+    <frm_endpoint>https://eu.frm.acuant.net</frm_endpoint>
+    <assureid_endpoint>https://eu.assureid.acuant.net</assureid_endpoint>
+    <passive_liveness_endpoint>https://eu.passlive.acuant.net</passive_liveness_endpoint>
+    <acas_endpoint>https://eu.acas.acuant.net</acas_endpoint>
+    <ozone_endpoint>https://eu.ozone.acuant.net</ozone_endpoint>
+</setting>
